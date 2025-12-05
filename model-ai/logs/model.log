@@ -1,0 +1,6 @@
+2025-12-05T06:32:22.725108Z [INFO] Diagnostics logging test - info
+2025-12-05T06:32:22.726110Z [ERROR] Diagnostics logging test - error | RuntimeError: test
+2025-12-05T07:00:07.107065Z [INFO] Diagnostics logging test - info
+2025-12-05T07:00:07.108063Z [ERROR] Diagnostics logging test - error | RuntimeError: test
+2025-12-05T07:30:23.839230Z [INFO] Diagnostics logging test - info
+2025-12-05T07:30:23.840243Z [ERROR] Diagnostics logging test - error | RuntimeError: test
